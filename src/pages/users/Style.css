@@ -1,0 +1,12 @@
+.select{
+    width: 100px;
+
+}
+.search_input{
+    width: 200px;
+}
+.table{
+    position: absolute;
+    margin-left: 130px;
+    max-width: 900px;
+}

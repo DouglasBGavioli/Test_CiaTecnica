@@ -1,0 +1,22 @@
+.container{
+    margin-top: 20px;
+    width: auto;
+    display: flex;
+    margin-left: 300px;
+    
+}
+.pages{
+    margin-top: 3px;
+    width: auto;
+    display: flex;
+    margin-left: 300px;
+}
+.cancel{
+    margin-right: 100px;
+    margin-bottom: 5px;
+    float: right;
+}
+.save{
+    margin-right: 150px;
+    margin-bottom: 5px;
+}
